@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="black">#000000</color>
+    <color name="white">#FFFFFF</color>
+
+    <!-- Main Theme -->
+    <color name="primary">#C89B3C</color>
+    <color name="primaryDark">#8A6A28</color>
+
+    <!-- Background -->
+    <color name="background">#0F1115</color>
+
+    <!-- Card -->
+    <color name="card">#1A1D24</color>
+
+    <!-- Text -->
+    <color name="textPrimary">#FFFFFF</color>
+    <color name="textSecondary">#B0B3B8</color>
+
+</resources>
